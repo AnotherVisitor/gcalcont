@@ -1,0 +1,39 @@
+00000101 Neujahr
+00000214 Valentinstag
+0000@e-48 Rosenmontag 
+0000@e-46 Aschermittwoch 
+0000@e-3 Gründonnerstag 
+0000@e-2 Karfreitag / Good Friday 
+0000@e-1 Karsamstag / Holy Saturday
+0000@e Ostersonntag / Easter Sunday
+0000@e+1 Ostermontag / Easter Monday
+0000@e+39 Christi Himmelfahrt 
+0000@e+49 Pfingstsonntag 
+0000@e+50 Pfingstmontag 
+0000@e+60 Fronleichnam 
+
+00001119 Volkstrauertag
+00001122 Buß- und Bettag
+00001126 Totensonntag
+
+00001224 Heiligabend 
+00001225 1. Weihnachtsfeiertag
+00001226 2. Weihnachtsfeiertag
+00001231 Silvester
+
+;0 Every single day
+20180306 This only on March 6th
+20180307 This only on March 7th
+;20180301#99 All march
+;20180401#99 All april 
+;201803mo1#mo9.7 march mondays
+;201803tu1#tu9.7 march tuesdays
+
+$l=+50.45+009.61+60
+0 Sunrise is %o$l
+0 Sunset is %s$l
+0 Moonphase is %O
+; %Z is ascii drawing a moon
+;0 %Z
+;
+
